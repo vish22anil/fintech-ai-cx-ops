@@ -18,7 +18,7 @@ We explore how AI techniques such as sentiment analysis, process mining, and aut
 ## Team Members
 - Member 1:K.Vishnu Vardhan Reddy
 - Member 2:P.Raajasree Rajendra
-- Member 3:Virajith Videm
+- Member 3:Virajith VS
 
 ## Objective
 To build a hybrid analysis framework integrating NLP, process mining, and automation simulation to measure AI’s real impact on FinTech services.
