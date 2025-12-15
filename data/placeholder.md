@@ -1,6 +1,10 @@
-This folder contains the cleaned and preprocessed FinTech customer reviews dataset
-used for sentiment analysis and customer experience evaluation.
-
-File:
-- fintech_reviews_cleaned.csv
+## Dataset
+- Source: Google Play Store user reviews (via Kaggle)
+- Size: ~8000 reviews
+- Cleaning steps:
+  - Removed blank reviews
+  - Removed duplicate reviews
+  - Normalized text (lowercase, removed symbols)
+  - Removed very short reviews
+- Final file: data/fintech_reviews_cleaned.csv
 
